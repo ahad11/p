@@ -22,7 +22,9 @@ let blinkingLabel = hi(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
        // blinkingLabel.stopBlinking()
         // Do any additional setup after loading the view, typically from a nib.
  //let h = m()
-        
+//      let s = m()
+//        s.n()
+        a()
   
     }
 
