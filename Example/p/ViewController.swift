@@ -7,9 +7,11 @@
 //
 
 import UIKit
-
+import p
 class ViewController: UIViewController {
-
+    
+    
+let blinkingLabel = sara(frame: CGRectMake(10, 20, 200, 30))
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
