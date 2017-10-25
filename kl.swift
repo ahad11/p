@@ -5,4 +5,9 @@
 //  Created by ahad on 10/25/17.
 //
 
-import Foundation
+
+public func a(){
+    
+    print("a")
+    
+}

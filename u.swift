@@ -8,5 +8,13 @@
 import UIKit
 
 class u: NSObject {
+    
+    
+    public func c(){
+        
+        print("c")
+        
+    }
+   
 
 }
