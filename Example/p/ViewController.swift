@@ -7,10 +7,10 @@
 //
 
 import UIKit
-import p
+//import p
 class ViewController: UIViewController {
     
-
+//let blinkingLabel =hi((frame: CGRectMake(10, 20, 200, 30))
 
     override func viewDidLoad() {
         super.viewDidLoad()
