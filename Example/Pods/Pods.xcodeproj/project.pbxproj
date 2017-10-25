@@ -12,6 +12,7 @@
 		190E43A5F93E21A09B4E7E5C5FFB6C70 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		61BB80AD621692C05C476DBBA76B18F4 /* p-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 968DF600AF5059383F03F9F39413DA66 /* p-dummy.m */; };
 		61D82C4D1FA0ABCF0045609D /* sara.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D82C4C1FA0ABCF0045609D /* sara.swift */; };
+		61D82C4F1FA0ACFE0045609D /* lama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D82C4E1FA0ACFE0045609D /* lama.swift */; };
 		7005D7B6B9A5D9E4C13E877DD40BC017 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		8370DBF587D7787AEA0B5167035E57CC /* Pods-p_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C14AB346D64555A63FA925F5ECD071AF /* Pods-p_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8EBAE6E6313605EB617188B480380946 /* Pods-p_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B1F60C70AE7F4AA54CB60D8D34910FC9 /* Pods-p_Tests-dummy.m */; };
@@ -46,6 +47,7 @@
 		54501C32286472046BBF82411766D3EA /* p.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = p.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C2D480D37850118DB25F23949A27B83 /* Pods-p_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-p_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		61D82C4C1FA0ABCF0045609D /* sara.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sara.swift; sourceTree = "<group>"; };
+		61D82C4E1FA0ACFE0045609D /* lama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lama.swift; sourceTree = "<group>"; };
 		624E9F3B4B4EF141ED5EDF1E461F9CF9 /* Pods-p_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-p_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		67B5668C6D4539073785BF1F03E6DCEA /* Pods-p_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-p_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 		8C3E4276101506929D6919A6D08162BC /* p */ = {
 			isa = PBXGroup;
 			children = (
+				61D82C4E1FA0ACFE0045609D /* lama.swift */,
 				61D82C4C1FA0ABCF0045609D /* sara.swift */,
 				43A326114C611C78720569E686C3202E /* Support Files */,
 			);
@@ -327,6 +330,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				61D82C4D1FA0ABCF0045609D /* sara.swift in Sources */,
+				61D82C4F1FA0ACFE0045609D /* lama.swift in Sources */,
 				61BB80AD621692C05C476DBBA76B18F4 /* p-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -11,10 +11,12 @@ import p
 class ViewController: UIViewController {
     
     
-let blinkingLabel = sara(frame: CGRectMake(10, 20, 200, 30))
+let blinkingLabel = sara(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        blinkingLabel.startBlinking()
     }
 
     override func didReceiveMemoryWarning() {
