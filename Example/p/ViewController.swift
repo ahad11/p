@@ -11,7 +11,7 @@ import p
 
 class ViewController: UIViewController {
     
-let blinkingLabel = hi(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
+//let blinkingLabel = hi(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
 
    
    
@@ -26,9 +26,9 @@ let blinkingLabel = hi(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
 //        s.n()
        // a()
      
-        
         var someInt = 3
         someInt.square()
+       
 
        
     }
