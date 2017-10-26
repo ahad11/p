@@ -25,9 +25,7 @@ let blinkingLabel = hi(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
 //      let s = m()
 //        s.n()
        // a()
-        3.repetitions {
-            print("Hello!")
-        }
+     
 
        
     }
