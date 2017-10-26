@@ -6,7 +6,7 @@
 //
 
 extension Int {
-    mutating func square() {
+     public mutating func square() {
         self = self * self
     }
 }
