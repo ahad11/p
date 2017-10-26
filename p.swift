@@ -6,3 +6,12 @@
 //
 
 import Foundation
+ public class p {
+    
+    
+    public func gh (){
+        
+        
+        print ("gh")
+    }
+}

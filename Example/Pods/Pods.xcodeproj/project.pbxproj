@@ -16,6 +16,8 @@
 		61D82C571FA0B09E0045609D /* u.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D82C561FA0B09E0045609D /* u.swift */; };
 		61D82C591FA0B3E40045609D /* m.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D82C581FA0B3E40045609D /* m.swift */; };
 		61D82C5C1FA0B9E20045609D /* x.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D82C5B1FA0B9E20045609D /* x.swift */; };
+		61EFF4E21FA1CD8B003C489D /* p.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61EFF4E11FA1CD8B003C489D /* p.swift */; };
+		61EFF4E41FA1D474003C489D /* kk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61EFF4E31FA1D474003C489D /* kk.swift */; };
 		7005D7B6B9A5D9E4C13E877DD40BC017 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		8370DBF587D7787AEA0B5167035E57CC /* Pods-p_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C14AB346D64555A63FA925F5ECD071AF /* Pods-p_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8EBAE6E6313605EB617188B480380946 /* Pods-p_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B1F60C70AE7F4AA54CB60D8D34910FC9 /* Pods-p_Tests-dummy.m */; };
@@ -54,6 +56,8 @@
 		61D82C561FA0B09E0045609D /* u.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = u.swift; sourceTree = "<group>"; };
 		61D82C581FA0B3E40045609D /* m.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = m.swift; sourceTree = "<group>"; };
 		61D82C5B1FA0B9E20045609D /* x.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = x.swift; sourceTree = "<group>"; };
+		61EFF4E11FA1CD8B003C489D /* p.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p.swift; sourceTree = "<group>"; };
+		61EFF4E31FA1D474003C489D /* kk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kk.swift; sourceTree = "<group>"; };
 		624E9F3B4B4EF141ED5EDF1E461F9CF9 /* Pods-p_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-p_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		67B5668C6D4539073785BF1F03E6DCEA /* Pods-p_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-p_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -164,6 +168,8 @@
 		8C3E4276101506929D6919A6D08162BC /* p */ = {
 			isa = PBXGroup;
 			children = (
+				61EFF4E11FA1CD8B003C489D /* p.swift */,
+				61EFF4E31FA1D474003C489D /* kk.swift */,
 				61D82C501FA0AE2C0045609D /* kl.swift */,
 				61D82C561FA0B09E0045609D /* u.swift */,
 				61D82C521FA0AF0B0045609D /* hi.swift */,
@@ -338,6 +344,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61EFF4E21FA1CD8B003C489D /* p.swift in Sources */,
+				61EFF4E41FA1D474003C489D /* kk.swift in Sources */,
 				61D82C5C1FA0B9E20045609D /* x.swift in Sources */,
 				61D82C591FA0B3E40045609D /* m.swift in Sources */,
 				61D82C511FA0AE2C0045609D /* kl.swift in Sources */,

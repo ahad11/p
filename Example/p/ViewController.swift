@@ -24,11 +24,12 @@ class ViewController: UIViewController {
  //let h = m()
 //      let s = m()
 //        s.n()
-       // a()
+     //   a()
      
-        var someInt = 3
-        someInt.square()
-       
+       // var someInt = 3
+        
+       // gh()
+      // c()
 
        
     }
