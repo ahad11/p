@@ -24,8 +24,12 @@ let blinkingLabel = hi(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
  //let h = m()
 //      let s = m()
 //        s.n()
-        a()
-  
+       // a()
+        3.repetitions {
+            print("Hello!")
+        }
+
+       
     }
 
     override func didReceiveMemoryWarning() {

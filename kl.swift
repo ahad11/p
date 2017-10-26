@@ -6,8 +6,13 @@
 //
 
 
-public func a(){
-    
-    print("a")
-    
+extension Int {
+    func repetitions(task: () -> Void) {
+        for _ in 0..<self {
+            task()
+        }
+    }
 }
+
+
+
