@@ -6,7 +6,7 @@
 //
 
 import Foundation
- public class p {
+
     
     
     public func gh (){
@@ -14,4 +14,4 @@ import Foundation
         
         print ("gh")
     }
-}
+
